@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Louise-Turner
 - 👀 I’m interested in Cyber Security, Game Dev, and Music!
-- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on anything really! I enjoy creative projects a lot.
 - 📫 How to reach me:
   Email: turner.louise509@gmail.com
